@@ -45,7 +45,7 @@ Deadline: 2359h on Wed, 2 Feb
 Your score in the assignment is the product of your Submission Score and Team Factor.
 
 # Outside Resources
-It is okay to consult and use outside resources as long as they are duly cited in your submission. Not mentioning them will be seen as a case of passing outside work as your own which is an instance of academic dishonesty.
+It is okay to consult and use outside resources as long as they are duly cited in your submission. Not mentioning them will be seen as a case of passing outside work as your own which is a case of academic dishonesty.
 
 # Discussion
 
