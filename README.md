@@ -54,4 +54,4 @@ In case of confusion or lack of clarity, do not hesitate to reach out to the cou
 - discuss with your buddy,
 - post in the discussion thread linked in the Assignment module on the course page on Canvas.
 
-There is a lot to take in and it is natural to get confused. So do not feel shy to reach out for help or clarification.
+There is a lot to take in and it is natural to get confused. Do not feel shy to reach out for help or clarification in a timely manner.
